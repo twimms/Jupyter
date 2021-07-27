@@ -1,4 +1,5 @@
-fastai==2.1.10
-ipython==5.5.0
-voila==0.2.4
+voila
+fastai>=2
+pillow<7
+packaging
 ipywidgets==7.5.1
